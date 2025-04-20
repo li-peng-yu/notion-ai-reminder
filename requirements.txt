@@ -1,0 +1,11 @@
+notion-client
+openai
+python-dotenv
+schedule
+
+# For notifications (e.g., Telegram Bot, email)
+requests
+
+# For future visualization
+matplotlib
+pandas
