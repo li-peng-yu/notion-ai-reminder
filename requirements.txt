@@ -3,6 +3,9 @@ openai
 python-dotenv
 schedule
 
+before run the reminder:
+pip install -r requirements.txt
+
 # For notifications (e.g., Telegram Bot, email)
 requests
 
